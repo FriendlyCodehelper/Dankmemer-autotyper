@@ -25,3 +25,11 @@ main.py file
 - Shovel![image](https://user-images.githubusercontent.com/89577470/141258445-e015acf2-8610-44d6-8378-3a32046c7ca6.png)
 
 - Laptop(s) (keep extra as it might break!) ![image](https://user-images.githubusercontent.com/89577470/141258509-0718926f-51f5-4df2-a9b3-05e581bdab99.png)
+
+# Disclaimer
+![image](https://user-images.githubusercontent.com/89577470/141259194-461a46d4-2d47-4053-8a5b-352abb438846.png)
+I am not responsible for what you doing for any actions you perform using it. Use it at you own risk.**Use it at you own risk.**
+
+Selfbots violate discord & Dankmemer and you will get banned if caught using them. Be careful about how you use the bot.999days ban is for dankmemer
+Do not use this in big dank memer servers.
+The implications of ban might also affect other accounts which interact with this selfbot. Use with caution.
